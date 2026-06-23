@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Security-green)
+![Learning](https://img.shields.io/badge/Learning-CRTP%20Track-orange)
+
 # Active Directory Security Lab
 
 ## Overview
